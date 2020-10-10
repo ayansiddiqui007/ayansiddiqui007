@@ -1,3 +1,5 @@
+<img src = "C:\Users\INDIA\Desktop\gif">
+
 Currently working as a freelancer 👋
 
 - 🔭 I’m currently doing Computer Science Engineering .
