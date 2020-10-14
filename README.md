@@ -1,4 +1,4 @@
-                           <img src = "https://media.giphy.com/media/B9b53zQSqPaLjXRIiH/giphy.gif">
+ I am a web developer <img src = "https://media.giphy.com/media/B9b53zQSqPaLjXRIiH/giphy.gif">
 
 Currently working as a freelancer 👋
 
