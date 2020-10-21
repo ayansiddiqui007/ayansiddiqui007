@@ -1,4 +1,9 @@
- I am a web developer <img src = "https://media.giphy.com/media/B9b53zQSqPaLjXRIiH/giphy.gif">
+                                                          Hi 👋, I'm Ayan
+                                                    A Web-Developer From India
+
+
+
+I am a web developer <img src = "https://media.giphy.com/media/B9b53zQSqPaLjXRIiH/giphy.gif">
 
 Currently working as a freelancer 👋
 
