@@ -1,6 +1,6 @@
-                                                          Hi 👋, I'm Ayan
-                                                    A Web-Developer From India
-                                                Currently working as a freelancer 👋
+                                    Hi 👋, I'm Ayan
+                              A Web-Developer From India
+                          Currently working as a freelancer 👋
 
 
 🔧 Technologies & Tools
