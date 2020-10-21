@@ -1,9 +1,7 @@
-                                    Hi 👋, I'm Ayan
-                              A Web-Developer From India
-                          Currently working as a freelancer 👋
- 
- 
-## Matrix 
+   ## Hi 👋, I'm Ayan
+## A Web-Developer From India
+##  Currently working as a freelancer 👋
+
 
 ![animation1](https://i.imgur.com/eymQH3q.gif)
 
