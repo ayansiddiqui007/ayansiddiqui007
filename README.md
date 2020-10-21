@@ -4,7 +4,7 @@
  
  
 ## Matrix 
-main.c
+
 ![animation1](https://i.imgur.com/eymQH3q.gif)
 
 
