@@ -1,4 +1,4 @@
-   ## Hi 👋, I'm Ayan
+   ## Hi 👋, I'm Ayan [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ayansiddiqui007/awesome#readme)
 ## A Web-Developer From India
 ##  Currently working as a freelancer 👋
 
