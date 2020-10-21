@@ -1,11 +1,8 @@
                                                           Hi 👋, I'm Ayan
                                                     A Web-Developer From India
+                                                Currently working as a freelancer 👋
 
-
-
-I am a web developer <img src = "https://media.giphy.com/media/B9b53zQSqPaLjXRIiH/giphy.gif">
-
-Currently working as a freelancer 👋
+<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
 
 - 🔭 I’m currently doing Computer Science Engineering .
 - 🌱 I’m currently learning Js & Python & PHP .
