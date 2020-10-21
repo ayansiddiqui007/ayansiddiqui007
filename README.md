@@ -1,8 +1,12 @@
                                     Hi 👋, I'm Ayan
                               A Web-Developer From India
                           Currently working as a freelancer 👋
-                          
-                         <img src="https://camo.githubusercontent.com/f3f0f01cc9cbd79b3f4eeecf8d81e01ab51c113a/68747470733a2f2f692e696d6775722e636f6d2f65796d514833712e676966">
+ main.c version
+ gcc main.c font.c `sdl2-config --cflags --libs` -o matrix-rain-1
+ 
+## Images 
+main.c
+![animation1](https://i.imgur.com/eymQH3q.gif)
 
 
 🔧 Technologies & Tools
