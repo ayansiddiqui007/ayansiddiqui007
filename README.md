@@ -1,10 +1,9 @@
                                     Hi 👋, I'm Ayan
                               A Web-Developer From India
                           Currently working as a freelancer 👋
- main.c version
- gcc main.c font.c `sdl2-config --cflags --libs` -o matrix-rain-1
  
-## Images 
+ 
+## Matrix 
 main.c
 ![animation1](https://i.imgur.com/eymQH3q.gif)
 
