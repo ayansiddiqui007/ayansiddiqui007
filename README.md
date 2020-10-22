@@ -1,7 +1,5 @@
-   ## Hi 👋, I'm Ayan [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ayansiddiqui007/awesome#readme)
-## A Web-Developer From India
-##  Currently working as a freelancer 👋
-
+# Hi Folks! I am Ayan, a Fullstack Developer, for real. :robot:
+ <img src="http://quoteapic.com/wp-content/uploads/2017/03/work-survaival.gif" height=250px align=right>
 
 ![animation1](https://i.imgur.com/eymQH3q.gif)
 
