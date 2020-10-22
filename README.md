@@ -19,6 +19,12 @@ I am passionate about giving life and functionality to beautiful designs and dri
 <img align="left" alt="Visual Studio Code" width="56px" style="margin: 3px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
  </div>
             
+            
+            
+            
+            
+            
+            
 
 -  🔭 I’m currently doing Computer Science Engineering .
 -  🌱 I’m currently learning Js & Python & PHP .
