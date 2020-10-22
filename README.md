@@ -3,7 +3,7 @@
 I am passionate about giving life and functionality to beautiful designs and driven by the challenges of process and data storage!
 </samp>
 
-![animation1](https://i.imgur.com/eymQH3q.gif)
+<img src="https://github.com/ayansiddiqui007/ayansiddiqui007/blob/master/cropped.png?raw=true" alt="banner that says Ayan Siddiqui - Web Developer, Welcome you.">
 
 
 🔧 Technologies & Tools
