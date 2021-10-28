@@ -31,3 +31,4 @@ I am passionate about giving life and functionality to beautiful designs and dri
 -  📫 How to reach me: https://codepen.io/ironman_ or ayaansiddiqui851@gmail.com
 -     I'm working on Web - Development Projects.
 
+<a href="https://app.daily.dev/Mr_Robot"><img src="https://api.daily.dev/devcards/6a5c92c12f964a89a4393b2f7b95341d.png?r=3f1" width="400" alt="Ayaan Siddiqui's Dev Card"/></a>
