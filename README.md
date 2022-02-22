@@ -2,7 +2,7 @@
 
 
 
-# Hi Folks! I am Ayan, a Fullstack Developer, for real. :robot:
+# Hi Geeks! I am Ayan, a Fullstack Developer, for real. :robot:
 <samp>
 I am passionate about giving life and functionality to beautiful designs and driven by the challenges of process and data storage!
 </samp>
