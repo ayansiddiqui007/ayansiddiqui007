@@ -46,7 +46,7 @@ I am passionate about giving life and functionality to beautiful designs and dri
 ## 📊 My GitHub Data:
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.ayansidiqui007.vercel.app/api?username=ayansiddiqui007&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.ayansiddiqui007.vercel.app/api?username=ayansiddiqui007&show_icons=true" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayansiddiqui007&" alt="Ayan" />
 </div>
 
