@@ -7,20 +7,9 @@
 I am passionate about giving life and functionality to beautiful designs and driven by the challenges of process and data storage!
 </samp>
 
-
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-### 🔧 Languages and Tools:
 
-<div>
-<img align="left" alt="HTML5" width="56px" style="margin: 3px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="56px" style="margin: 3px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="56px" style="margin: 3px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="MySQL" width="56px" style="margin: 3px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="56px" style="margin: 3px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /><img align="left" alt="GitHub" width="56px" style="margin: 3px;" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Visual Studio Code" width="56px" style="margin: 3px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
- </div>
-  
  ## 🛠️ Technologies and Tools I use:
  <p>
  <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
@@ -38,7 +27,6 @@ I am passionate about giving life and functionality to beautiful designs and dri
  </p>
  
  
- [![Ayansiddiqui's github stats](https://github-readme-stats.vercel.app/api?username=ayansiddiqui007)](https://github.com/ayansiddiqui007)
 
 -  🔭 I’m currently doing Computer Science Engineering .
 -  🌱 I’m currently learning Js & Python & PHP .
@@ -48,3 +36,17 @@ I am passionate about giving life and functionality to beautiful designs and dri
 -     I'm working on Web - Development Projects.
 
 <a href="https://app.daily.dev/Mr_Robot"><img src="https://api.daily.dev/devcards/6a5c92c12f964a89a4393b2f7b95341d.png?r=3f1" width="400" alt="Ayaan Siddiqui's Dev Card"/></a>
+
+</p>
+
+## 🤝 Support Me:
+
+<a href="https://www.buymeacoffee.com/ayan1" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
+
+## 📊 My GitHub Data:
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats.ayansidiqui007.vercel.app/api?username=ayansiddiqui007&show_icons=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayansiddiqui007&" alt="Ayan" />
+</div>
+
