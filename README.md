@@ -1,4 +1,4 @@
-![Alt Text](https://giphy.com/embed/qgQUggAC3Pfv687qPC)
+![Alt Text](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 
 # Hi Geeks! I am Ayan, a Fullstack Developer, for real. :robot:
