@@ -38,8 +38,6 @@ I am passionate about giving life and functionality to beautiful designs and dri
 
 </p>
 
-! [Alt Text] (https://media0.giphy.com/media/996QnYPJ4qJoihFe4Z/giphy.gif)
-
 ## 🤝 Support Me:
 
 <a href="https://www.buymeacoffee.com/ayan1" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
