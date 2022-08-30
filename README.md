@@ -38,7 +38,7 @@ I am passionate about giving life and functionality to beautiful designs and dri
 
 </p>
 
-! [Alt Text] (https://giphy.com/gifs/996QnYPJ4qJoihFe4Z)
+! [Alt Text] (https://giphy.com/gifs/996QnYPJ4qJoihFe4Z.giphy.gif)
 
 ## 🤝 Support Me:
 
